@@ -1,5 +1,5 @@
 ## Problem: Reversed Strings
-**Source:** [Codewars – Pairs of integers from 0 to n](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
+**Source:** [Codewars – Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/python)
 
 ### Description
 Complete the solution so that it reverses the string passed into it.
