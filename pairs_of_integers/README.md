@@ -13,4 +13,4 @@ generate_pairs(2)
 
 ## How to run
 ```bash
-pytest -q
+python3 test.py
